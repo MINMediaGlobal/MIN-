@@ -609,7 +609,7 @@ div#loginPage {
 
 .layout-mobile #loginPage {
   background: linear-gradient(to left, #000000bf, #000000bf),
-    url(https://raw.githubusercontent.com/el20media/20Now/main/fondo.jpg) !important;
+    url() !important;
   background-size: cover !important;
 }
 
