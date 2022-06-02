@@ -632,7 +632,7 @@ div#loginPage {
     linear-gradient(to bottom, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to left, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to right, rgba(0, 0, 0, 0.75), transparent 20%),
-    url(https://raw.githubusercontent.com/el20media/20Now/main/fondo.jpg) !important;
+    url() !important;
   background-size: cover !important;
 }
 
